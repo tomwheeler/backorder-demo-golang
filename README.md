@@ -1,4 +1,4 @@
-# wfe-go-example
+# Backorder Demo
 Simple Two-Activity Workflow, for demonstrating event history
 
 The example is currently one that checks an inventory service
